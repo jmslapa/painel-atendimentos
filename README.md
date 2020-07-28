@@ -1,3 +1,11 @@
+## Instruções
+- **Após clonar o repositório e configurar a conexão com o banco de dados executar os seguintes comandos no diretório raiz:**
+- composer install
+- php artisan key:generate
+- php artisan migrate
+- npm install
+- npm run dev
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
